@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670334120364",
+    "project_id": "virtualwallet-d3154",
+    "storage_bucket": "virtualwallet-d3154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670334120364:android:9034db7b3a7c3a37d60a09",
+        "android_client_info": {
+          "package_name": "com.example.storeson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpeZnrSEFNLmy3_Ab-CSb6sqhUDVDtiO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670334120364:android:89099e3299239e8cd60a09",
+        "android_client_info": {
+          "package_name": "com.example.virtualwallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpeZnrSEFNLmy3_Ab-CSb6sqhUDVDtiO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
